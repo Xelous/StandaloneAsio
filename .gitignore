@@ -1,0 +1,5 @@
+build
+.vs
+x64
+Solution\.vs
+Solution\Project\x64
